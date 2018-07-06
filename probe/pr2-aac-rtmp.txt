@@ -1,0 +1,20 @@
+Input #0, flv, from 'rtmp://stream12.polskieradio.pl/pr2/pr2.sdp':
+  Metadata:
+    x-qt-text-cmt   : Orban Opticodec-PC
+    audiochannels   : 2
+    timescale       : 44100
+    sampletype      : MP4A-LATM
+    type            : audio
+    config          : 1210
+    description     : {AACFrame: codec:AAC, channels:2, frequency:44100, samplesPerFrame:1024, objectType:LC}
+    protocolversion : 0
+    timing          : 0 0
+    origin          : - 710535910 1576727285 IN IP4 127.0.0.1
+    name            : Program2
+    information     : Hi-Fi Internet Audio Stream
+    X-pcs-title     : Hi-Fi Internet Audio Stream
+    x-qt-text-inf   : Hi-Fi Internet Audio Stream
+    X-pcs-artist    : Program2
+    x-qt-text-nam   : Program2
+  Duration: N/A, start: 0.000000, bitrate: 131 kb/s
+    Stream #0:0: Audio: aac (LC), 44100 Hz, stereo, fltp, 131 kb/s

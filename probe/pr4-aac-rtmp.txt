@@ -1,0 +1,20 @@
+Input #0, flv, from 'rtmp://stream14.polskieradio.pl/pr4/pr4.sdp':
+  Metadata:
+    x-qt-text-cmt   : Orban Opticodec-PC
+    audiochannels   : 2
+    timescale       : 44100
+    sampletype      : MP4A-LATM
+    type            : audio
+    config          : 1390
+    description     : {AACFrame: codec:AAC, channels:2, frequency:22050, samplesPerFrame:1024, objectType:LC}
+    protocolversion : 0
+    timing          : 0 0
+    origin          : - 659067157 2600675569 IN IP4 127.0.0.1
+    name            : Czworka
+    information     : Hi-Fi Internet Audio Stream
+    X-pcs-title     : Hi-Fi Internet Audio Stream
+    x-qt-text-inf   : Hi-Fi Internet Audio Stream
+    X-pcs-artist    : Czworka
+    x-qt-text-nam   : Czworka
+  Duration: N/A, start: 0.000000, bitrate: 49 kb/s
+    Stream #0:0: Audio: aac (HE-AAC), 44100 Hz, stereo, fltp, 49 kb/s

@@ -1,0 +1,13 @@
+Input #0, aac, from 'http://stream3.polskieradio.pl:8954':
+  Metadata:
+    icy-notice1     : <BR>This stream requires <a href="http://www.winamp.com/">Winamp</a><BR>
+    icy-notice2     : SHOUTcast Distributed Network Audio Server/win32 v1.9.8<BR>
+    icy-name        : Polskie Radio S.A. -- aac_Program 3 -- http://moje.polskieradio.pl
+    icy-genre       : 
+    icy-url         : http://stream3.polskieradio.pl:8954
+    icy-pub         : 0
+    icy-br          : 48
+    StreamTitle     : 
+    StreamUrl       : http://stream3.polskieradio.pl:8954
+  Duration: N/A, bitrate: 49 kb/s
+    Stream #0:0: Audio: aac (HE-AAC), 44100 Hz, stereo, fltp, 49 kb/s

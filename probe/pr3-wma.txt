@@ -1,0 +1,10 @@
+Input #0, asf, from 'mmsh://stream.polskieradio.pl/program3':
+  Metadata:
+    WMFSDKNeeded    : 0.0.0.0000
+    DeviceConformanceTemplate: L2
+    WMFSDKVersion   : 12.0.7601.17514
+    IsVBR           : 0
+  Duration: N/A, start: 3960716.298000, bitrate: 100 kb/s
+    Stream #0:0(eng): Audio: wmav2 (a[1][0][0] / 0x0161), 48000 Hz, 2 channels, fltp, 96 kb/s
+    Stream #0:1(eng): Data: none, 4 kb/s
+Unsupported codec with id 0 for input stream 1

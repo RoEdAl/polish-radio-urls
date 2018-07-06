@@ -1,0 +1,14 @@
+[mp3 @ 0x55638679f240] Skipping 80 bytes of junk at 0.
+Input #0, mp3, from 'http://mp3.polskieradio.pl:8902':
+  Metadata:
+    icy-notice1     : <BR>This stream requires <a href="http://www.winamp.com/">Winamp</a><BR>
+    icy-notice2     : SHOUTcast Distributed Network Audio Server/win32 v1.9.8<BR>
+    icy-name        : Polskie Radio S.A. -- Program 2 -- http://moje.polskieradio.pl
+    icy-genre       : 
+    icy-url         : http://stream3.polskieradio.pl:8902
+    icy-pub         : 0
+    icy-br          : 96
+    StreamTitle     : 
+    StreamUrl       : http://stream3.polskieradio.pl:8902
+  Duration: N/A, start: 0.000000, bitrate: 96 kb/s
+    Stream #0:0: Audio: mp3, 44100 Hz, stereo, fltp, 96 kb/s

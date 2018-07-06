@@ -1,0 +1,9 @@
+Input #0, asf, from 'mmsh://stream.polskieradio.pl/program2':
+  Metadata:
+    WMFSDKNeeded    : 0.0.0.0000
+    DeviceConformanceTemplate: L2
+    WMFSDKVersion   : 12.0.7601.17514
+    IsVBR           : 0
+  Duration: N/A, start: 3960293.941000, bitrate: 132 kb/s
+    Stream #0:0(eng): Audio: wmav2 (a[1][0][0] / 0x0161), 48000 Hz, 2 channels, fltp, 128 kb/s
+    Stream #0:1(eng): Data: none, 4 kb/s

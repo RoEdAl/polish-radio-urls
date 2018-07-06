@@ -1,0 +1,10 @@
+Input #0, asf, from 'mmsh://stream.polskieradio.pl/program4_wma10':
+  Metadata:
+    WMFSDKNeeded    : 0.0.0.0000
+    DeviceConformanceTemplate: M0
+    WMFSDKVersion   : 12.0.7601.17514
+    IsVBR           : 0
+  Duration: N/A, start: 3961213.482000, bitrate: 52 kb/s
+    Stream #0:0(eng): Audio: wmapro (b[1][0][0] / 0x0162), 48000 Hz, stereo, fltp, 48 kb/s
+    Stream #0:1(eng): Data: none, 4 kb/s
+Unsupported codec with id 0 for input stream 1
