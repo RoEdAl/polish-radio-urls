@@ -1,0 +1,21 @@
+[Unit]
+Description=Icecast Audio Streaming Server - Polish Radio Relays
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/icecast -c /etc/icecast-pr-relays.xml
+RuntimeDirectory=icecast-pr-relays
+PIDFile=/run/icecast-pr-relays/pid
+User=nobody
+Group=nobody
+ProtectSystem=yes
+NoNewPrivileges=yes
+ProtectKernelTunables=yes
+ProtectControlGroups=yes
+ProtectKernelModules=yes
+RestrictAddressFamilies=AF_INET AF_INET6 AF_UNIX
+RestrictNamespaces=yes
+TasksMax=20
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<icecast>
+  <hostname>PolishRadioRelays</hostname>
+  <location>localhost</location>
+  <admin>prr@localhost</admin>
+  <listen-socket>
+    <port>50100</port>
+    <bind-address>::</bind-address>
+  </listen-socket>
+  <authentication>
+    <source-password>LK8Qt6mW</source-password>
+    <relay-password>9yMBMrAY</relay-password>
+    <admin-password>V5zeUZ7c</admin-password>
+  </authentication>
+  <mount type="default">
+    <hidden>0</hidden>
+    <public>1</public>
+    <queue-size>24000</queue-size>
+    <burst-size>3000</burst-size>
+  </mount>
+  <limits>
+    <clients>16</clients>
+    <sources>4</sources>
+    <queue-size>24000</queue-size>
+    <burst-size>3000</burst-size>
+  </limits>
+  <http-headers>
+    <header name="Access-Control-Allow-Origin" value="*"/>
+  </http-headers>
+  <paths>
+    <basedir>/usr/share/icecast</basedir>
+    <webroot>/usr/share/icecast/web</webroot>
+    <adminroot>/usr/share/icecast/admin</adminroot>
+    <pidfile>/run/icecast-pr-relays/pid</pidfile>
+    <alias source="/" dest="/status.xsl"/>
+    <alias source="/pr1" dest="/aac/pr1"/>
+    <alias source="/pr2" dest="/aac/pr2"/>
+    <alias source="/pr3" dest="/aac/pr3"/>
+    <alias source="/pr4" dest="/aac/pr4"/>
+  </paths>
+  <security>
+    <chroot>0</chroot>
+  </security>
+  <logging>
+    <accesslog>-</accesslog>
+    <errorlog>-</errorlog>
+    <loglevel>3</loglevel>
+  </logging>
+
+  <!-- PR1 MP3 -->
+  <relay>
+    <server>mp3.polskieradio.pl</server>
+    <port>8900</port>
+    <local-mount>/mp3/pr1</local-mount>
+    <relay-shoutcast-metadata>1</relay-shoutcast-metadata>
+    <on-demand>1</on-demand>
+  </relay>
+
+  <!-- PR1 AAC -->
+  <relay>
+    <server>stream3.polskieradio.pl</server>
+    <port>8950</port>
+    <local-mount>/aac/pr1</local-mount>
+    <relay-shoutcast-metadata>1</relay-shoutcast-metadata>
+    <on-demand>1</on-demand>
+  </relay>
+
+  <!-- PR2 MP3 -->
+  <relay>
+    <server>mp3.polskieradio.pl</server>
+    <port>8902</port>
+    <local-mount>/mp3/pr2</local-mount>
+    <relay-shoutcast-metadata>1</relay-shoutcast-metadata>
+    <on-demand>1</on-demand>
+  </relay>
+
+  <!-- PR2 AAC -->
+  <relay>
+    <server>stream3.polskieradio.pl</server>
+    <port>8952</port>
+    <local-mount>/aac/pr2</local-mount>
+    <relay-shoutcast-metadata>1</relay-shoutcast-metadata>
+    <on-demand>1</on-demand>
+  </relay>
+
+  <!-- PR3 MP3 -->
+  <relay>
+    <server>mp3.polskieradio.pl</server>
+    <port>8904</port>
+    <local-mount>/mp3/pr3</local-mount>
+    <relay-shoutcast-metadata>1</relay-shoutcast-metadata>
+    <on-demand>1</on-demand>
+  </relay>
+
+  <!-- PR3 AAC -->
+  <relay>
+    <server>stream3.polskieradio.pl</server>
+    <port>8954</port>
+    <local-mount>/aac/pr3</local-mount>
+    <relay-shoutcast-metadata>1</relay-shoutcast-metadata>
+    <on-demand>1</on-demand>
+  </relay>
+
+  <!-- PR4 MP3 -->
+  <relay>
+    <server>mp3.polskieradio.pl</server>
+    <port>8906</port>
+    <local-mount>/mp3/pr4</local-mount>
+    <relay-shoutcast-metadata>1</relay-shoutcast-metadata>
+    <on-demand>1</on-demand>
+  </relay>
+
+  <!-- PR4 AAC -->
+  <relay>
+    <server>stream3.polskieradio.pl</server>
+    <port>8956</port>
+    <local-mount>/aac/pr4</local-mount>
+    <relay-shoutcast-metadata>1</relay-shoutcast-metadata>
+    <on-demand>1</on-demand>
+  </relay>
+</icecast>
