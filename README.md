@@ -13,7 +13,7 @@
 | Codec | URL  | Bitrate (kbps) |
 | :---: | :--- | :---: |
 | [AAC+](probe/pr2-aac-http.txt) | http://stream3.polskieradio.pl:8952 | 96 |
-| [AAC+](probe/pr2-aac-rtmp.txt) | rtmp://stream12.polskieradio.pl/pr2/pr2.sdp | 128 |
+| [AAC](probe/pr2-aac-rtmp.txt) | rtmp://stream12.polskieradio.pl/pr2/pr2.sdp | 128 |
 | [MP3](probe/pr2-mp3.txt) | http://mp3.polskieradio.pl:8902 | 96 |
 | [WMA](probe/pr2-wma.txt) | mmsh://stream.polskieradio.pl/program2 | 128 |
 | [WMA Pro](probe/pr2-wma-pro.txt) | mmsh://stream.polskieradio.pl/program2_wma10 | 128 |
