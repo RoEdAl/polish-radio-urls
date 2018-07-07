@@ -24,7 +24,7 @@
 | :---: | :--- | :---: |
 | [AAC+](probe/pr3-aac-http.txt) | http://stream3.polskieradio.pl:8954 | 48 |
 | [AAC+](probe/pr3-aac-rtmp.txt) | rtmp://stream13.polskieradio.pl/pr3/pr3.sdp | 48 |
-| [MP3](probe/pr3-mp3.txt) | http://http://mp3.polskieradio.pl:8904 | 96 |
+| [MP3](probe/pr3-mp3.txt) | http://mp3.polskieradio.pl:8904 | 96 |
 | [WMA](probe/pr3-wma.txt) | mmsh://stream.polskieradio.pl/program3 | 96 |
 | [WMA Pro](probe/pr3-wma-pro.txt) | mmsh://stream.polskieradio.pl/program3_wma10 | 48 |
 
