@@ -1,0 +1,4 @@
+PR1	http://www.polskieradio.pl/st/program1M.asx
+PR2	http://www.polskieradio.pl/st/program2.asx
+PR3	http://www.polskieradio.pl/st/program3.asx
+PR4	http://www.polskieradio.pl/st/program4.asx
