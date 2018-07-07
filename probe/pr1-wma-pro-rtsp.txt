@@ -1,0 +1,9 @@
+Input #0, rtsp, from 'rtsp://stream.polskieradio.pl/program1_wma10':
+  Metadata:
+    title           : <No Title>
+    WMFSDKNeeded    : 0.0.0.0000
+    DeviceConformanceTemplate: M0
+    WMFSDKVersion   : 12.0.7601.17514
+    IsVBR           : 0
+  Duration: 00:00:00.00, start: 3.000000, bitrate: N/A
+    Stream #0:0: Audio: wmapro (b[1][0][0] / 0x0162), 48000 Hz, stereo, fltp, 48 kb/s
