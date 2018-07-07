@@ -1,0 +1,9 @@
+Input #0, hls,applehttp, from 'http://stream85.polskieradio.pl/pr5/pr5_dab.sdp/playlist.m3u8':
+  Duration: N/A, start: 40738.414578, bitrate: 53 kb/s
+  Program 0 
+    Metadata:
+      variant_bitrate : 48999
+    Stream #0:0: Audio: aac (HE-AACv2), 44100 Hz, stereo, fltp, 53 kb/s
+    Metadata:
+      variant_bitrate : 48999
+      id3v2_priv.com.apple.streaming.transportStreamTimestamp: \x00\x00\x00\x00\xda\x89\xb2\xe0

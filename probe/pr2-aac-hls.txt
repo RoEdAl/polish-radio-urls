@@ -1,0 +1,9 @@
+Input #0, hls,applehttp, from 'http://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8':
+  Duration: N/A, start: 40558.369567, bitrate: 122 kb/s
+  Program 0 
+    Metadata:
+      variant_bitrate : 130028
+    Stream #0:0: Audio: aac (LC), 44100 Hz, stereo, fltp, 122 kb/s
+    Metadata:
+      variant_bitrate : 130028
+      id3v2_priv.com.apple.streaming.transportStreamTimestamp: \x00\x00\x00\x00\xd9\x92q\xcd
