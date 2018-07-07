@@ -1,0 +1,16 @@
+<asx version = "3.0">
+  <entry>
+    <ref href = "mms://stream.polskieradio.pl/program4"/>
+    <ref href = "rtsp://stream.polskieradio.pl/program4"/>
+    <ref href = "http://stream.polskieradio.pl/program4"/>
+  <Title>Polskie Radio EURO</Title>
+  <Author>Polskie Radio SA</Author>
+  <Copyright>Polskie Radio SA</Copyright>
+  <Banner></Banner>
+  </entry>
+  <Title>Polskie Radio EURO</Title>
+  <Author>Polskie Radio SA</Author>
+  <Copyright>Polskie Radio SA</Copyright>
+  <Banner></Banner>
+  <LogURL href = ""/>
+</asx>

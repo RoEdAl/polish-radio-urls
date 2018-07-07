@@ -1,0 +1,16 @@
+<asx version = "3.0">
+  <entry>
+    <ref href = "mms://stream.polskieradio.pl/program3"/>
+    <ref href = "rtsp://stream.polskieradio.pl/program3"/>
+    <ref href = "http://stream.polskieradio.pl/program3"/>
+  <Title>Trójka</Title>
+  <Author>Polskie Radio SA</Author>
+  <Copyright>Polskie Radio SA</Copyright>
+  <Banner></Banner>
+  </entry>
+  <Title>Trójka</Title>
+  <Author>Polskie Radio SA</Author>
+  <Copyright>Polskie Radio SA</Copyright>
+  <Banner></Banner>
+  <LogURL href = ""/>
+</asx>

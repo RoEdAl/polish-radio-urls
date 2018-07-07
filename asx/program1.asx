@@ -1,0 +1,16 @@
+<asx version = "3.0">
+  <entry>
+    <ref href = "mms://stream.polskieradio.pl/program1">
+    <ref href = "rtsp://stream.polskieradio.pl/program1">
+    <ref href = "http://stream.polskieradio.pl/program1">
+  <Title>Program Pierwszy Polskiego Radia</Title>
+  <Author>Polskie Radio SA</Author>
+  <Copyright>Polskie Radio SA</Copyright>
+  <Banner></Banner>
+  </entry>
+  <Title>Program Pierwszy Polskiego Radia</Title>
+  <Author>Polskie Radio SA</Author>
+  <Copyright>Polskie Radio SA</Copyright>
+  <Banner></Banner>
+  <LogURL href = ""/>
+</asx>
