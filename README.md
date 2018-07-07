@@ -55,5 +55,7 @@
 | [AAC+](probe/pr5-aac-rtmp.txt) | rtmp://stream85.polskieradio.pl/pr5/pr5_dab.sdp | 48 |
 | [MP3](probe/pr5-mp3-1.txt) | http://mp3.polskieradio.pl:8908 | 96 |
 | [MP3](probe/pr5-mp3-2.txt) | http://mp3.polskieradio.pl:8912 | 96 |
-| [WMA](probe/pr5-wma.txt) | mmsh://stream.polskieradio.pl/zagranica | 96 |
-| [WMA Pro](probe/pr5-wma-pro.txt) | mmsh://stream.polskieradio.pl/zagranica_wma10 | 48 |
+| [WMA](probe/pr5-wma-mms.txt) | mmsh://stream.polskieradio.pl/zagranica | 96 |
+| [WMA Pro](probe/pr5-wma-pro-mms.txt) | mmsh://stream.polskieradio.pl/zagranica_wma10 | 48 |
+| [WMA](probe/pr5-wma-rtsp.txt) | rtsp://stream.polskieradio.pl/zagranica | 96 |
+| [WMA Pro](probe/pr5-wma-pro-rtsp.txt) | rtsp://stream.polskieradio.pl/zagranica_wma10 | 48 |
