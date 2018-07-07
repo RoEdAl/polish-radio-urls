@@ -10,6 +10,8 @@
 | [WMA](probe/pr1-wma-rtsp.txt) | rtsp://stream.polskieradio.pl/program1 | 96 |
 | [WMA Pro](probe/pr1-wma-pro-rtsp.txt) | rtsp://stream.polskieradio.pl/program1_wma10 | 48 |
 
+**ASX**: http://www.polskieradio.pl/st/program1M.asx - [view](asx/program1.asx)
+
 # [PR2](http://moje.polskieradio.pl/station/99/Dwojka)
 
 | Codec | URL  | Bitrate (kbps) |
@@ -21,6 +23,8 @@
 | [WMA Pro](probe/pr2-wma-pro-mms.txt) | mmsh://stream.polskieradio.pl/program2_wma10 | 128 |
 | [WMA](probe/pr2-wma-rtsp.txt) | rtsp://stream.polskieradio.pl/program2 | 128 |
 | [WMA Pro](probe/pr2-wma-pro-rtsp.txt) | rtsp://stream.polskieradio.pl/program2_wma10 | 128 |
+
+**ASX**: http://www.polskieradio.pl/st/program2.asx - [view](asx/program2.asx)
 
 # [PR3](http://moje.polskieradio.pl/station/100/Trojka)
 
@@ -34,6 +38,8 @@
 | [WMA](probe/pr3-wma-rtsp.txt) | rtsp://stream.polskieradio.pl/program3 | 96 |
 | [WMA Pro](probe/pr3-wma-pro-rtsp.txt) | rtsp://stream.polskieradio.pl/program3_wma10 | 48 |
 
+**ASX**: http://www.polskieradio.pl/st/program3.asx - [view](asx/program3.asx)
+
 # [PR4](http://moje.polskieradio.pl/station/101/Czworka)
 
 | Codec | URL  | Bitrate (kbps) |
@@ -45,6 +51,8 @@
 | [WMA Pro](probe/pr4-wma-pro-mms.txt) | mmsh://stream.polskieradio.pl/program4_wma10 | 48 |
 | [WMA](probe/pr4-wma-rtsp.txt) | rtsp://stream.polskieradio.pl/program4 | 96 |
 | [WMA Pro](probe/pr4-wma-pro-rtsp.txt) | rtsp://stream.polskieradio.pl/program4_wma10 | 48 |
+
+**ASX**: http://www.polskieradio.pl/st/program4.asx - [view](asx/program4.asx)
 
 # [PR5/DAB/Zagranica](http://moje.polskieradio.pl/station/137/Radio-Poland-DAB)
 
