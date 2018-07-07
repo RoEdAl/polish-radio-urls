@@ -24,7 +24,14 @@
 | [WMA](probe/pr2-wma-rtsp.txt) | rtsp://stream.polskieradio.pl/program2 | 128 |
 | [WMA Pro](probe/pr2-wma-pro-rtsp.txt) | rtsp://stream.polskieradio.pl/program2_wma10 | 128 |
 
-**ASX**: http://www.polskieradio.pl/st/program2.asx - [view](asx/program2.asx)
+Playlists:
+
+* **ASX**: http://www.polskieradio.pl/st/program2.asx - [view](asx/program2.asx)
+* **M3U8**: http://stream12.polskieradio.pl/pr2/pr2.sdp/playlist.m3u8
+
+See also:
+
+* [CLI scheduled recorder for Polish Radio II](//github.com/trzewiczek/prrecorder)
 
 # [PR3](http://moje.polskieradio.pl/station/100/Trojka)
 
