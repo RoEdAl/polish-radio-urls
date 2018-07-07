@@ -10,7 +10,10 @@
 | [WMA](probe/pr1-wma-rtsp.txt) | rtsp://stream.polskieradio.pl/program1 | 96 |
 | [WMA Pro](probe/pr1-wma-pro-rtsp.txt) | rtsp://stream.polskieradio.pl/program1_wma10 | 48 |
 
-**ASX**: http://www.polskieradio.pl/st/program1M.asx - [view](asx/program1.asx)
+Playlists:
+
+* **ASX**: http://www.polskieradio.pl/st/program1M.asx - [view](asx/program1.asx)
+* **M3U8**: http://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8
 
 # [PR2](http://moje.polskieradio.pl/station/99/Dwojka)
 
@@ -45,7 +48,10 @@ See also:
 | [WMA](probe/pr3-wma-rtsp.txt) | rtsp://stream.polskieradio.pl/program3 | 96 |
 | [WMA Pro](probe/pr3-wma-pro-rtsp.txt) | rtsp://stream.polskieradio.pl/program3_wma10 | 48 |
 
-**ASX**: http://www.polskieradio.pl/st/program3.asx - [view](asx/program3.asx)
+Playlists:
+
+* **ASX**: http://www.polskieradio.pl/st/program3.asx - [view](asx/program3.asx)
+* **M3U8**: http://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
 
 # [PR4](http://moje.polskieradio.pl/station/101/Czworka)
 
@@ -59,7 +65,10 @@ See also:
 | [WMA](probe/pr4-wma-rtsp.txt) | rtsp://stream.polskieradio.pl/program4 | 96 |
 | [WMA Pro](probe/pr4-wma-pro-rtsp.txt) | rtsp://stream.polskieradio.pl/program4_wma10 | 48 |
 
-**ASX**: http://www.polskieradio.pl/st/program4.asx - [view](asx/program4.asx)
+Playlists:
+
+* **ASX**: http://www.polskieradio.pl/st/program4.asx - [view](asx/program4.asx)
+* **M3U8**: http://stream14.polskieradio.pl/pr4/pr4.sdp/playlist.m3u8
 
 # [PR5/DAB/Zagranica](http://moje.polskieradio.pl/station/137/Radio-Poland-DAB)
 
@@ -74,3 +83,7 @@ See also:
 | [WMA Pro](probe/pr5-wma-pro-mms.txt) | mmsh://stream.polskieradio.pl/zagranica_wma10 | 48 |
 | [WMA](probe/pr5-wma-rtsp.txt) | rtsp://stream.polskieradio.pl/zagranica | 96 |
 | [WMA Pro](probe/pr5-wma-pro-rtsp.txt) | rtsp://stream.polskieradio.pl/zagranica_wma10 | 48 |
+
+Playlists:
+
+* **M3U8**: http://stream85.polskieradio.pl/pr5/pr5_dab.sdp/playlist.m3u8
